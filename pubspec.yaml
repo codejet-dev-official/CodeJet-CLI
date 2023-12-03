@@ -1,0 +1,16 @@
+name: codejet_cli
+description: A simplified & clean Flutter file structure framework based on Bloc pattern.
+version: 1.0.1
+repository: https://github.com/codejet-dev-official/CodeJet-CLI.git
+
+environment:
+  sdk: ^3.2.2
+
+# Add regular dependencies here.
+dependencies:
+  args: ^2.4.2
+  process_run: ^0.13.3
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.24.0
